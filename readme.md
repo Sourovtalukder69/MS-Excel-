@@ -1,5 +1,5 @@
 📊 Excel
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013_logo.svg)
+- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Welcome to my Excel repository! This repository is a treasure trove for anyone looking to master Microsoft Excel, the powerhouse of data analysis and visualization. From learning notes and practical projects to Power Query skills and exercises, this collection is your go-to guide for becoming an Excel expert.
 
